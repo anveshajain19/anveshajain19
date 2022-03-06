@@ -3,10 +3,10 @@ Open Source Enthusiast | MERN Developr | C++ Guy | 🙋‍♂️Learner
 
 
 
-🌱 I’m currently learning React JS, C++, JavaScript
-👨‍💻 All of my projects will be availabe soon.
-📫 How to reach me anvesha19jain@gmail.com
-💬 Ask me about React, & DevOps topics
+🌱 I’m currently learning React JS, C++, JavaScript<br>
+👨‍💻 All of my projects will be availabe soon.<br>
+📫 How to reach me anvesha19jain@gmail.com<br>
+💬 Ask me about React, & DevOps topics<br>
 ⚡ fact Nothing, Just need Coffee.
 
 
