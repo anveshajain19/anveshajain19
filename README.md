@@ -14,14 +14,14 @@ Hi, I am Anvesha !
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 - 🖋️ I am an artist and I love everything that is drawn by hand or digitally !
-👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things.
+- 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 
 ## Experience 
  - [GOOGLE WE SCHOLAR '24](https://medium.com/@anvesha19jain/women-engineering-program-a-complete-guide-bb71159be62) - Got selected as one of the top 250 girls all over the India. We will be given 2 year mentorship and much more to learn and a schlarship of [1,00,000] rupees!
- -  Codess.Cafe mentee for open source track.
+ - [Codess.Cafe] mentee for open source track.
  - [Girlscript Summerr Of Code] Contributed in it and learned so many new things.
  - [Harvard WE Code Scholar](https://www.linkedin.com/company/wecodeharvard/) - Where I got the ticket to attend the code conference for free.
-- [Graphic Designer](https://www.linkedin.com/company/gs-production-house/mycompany/) - I am working as a graphic designer in the official meddia and production club of our college.
+ - [Graphic Designer](https://www.linkedin.com/company/gs-production-house/mycompany/) - I am working as a graphic designer in the official meddia and production club  of our college.
  
 ## Tech Stack
 
@@ -54,6 +54,6 @@ Hi, I am Anvesha !
   
  ![Anvesha Jain Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=anveshajain19&show_icons=true&include_all_commits=true&theme=radical)
 
-<h1 align="left">GitHub Statistics</h1>
+
   
 
