@@ -17,9 +17,9 @@ Hi, I am Anvesha !
 - 👨‍💻 I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 
 ## Experience 
- - [GOOGLE WE SCHOLAR '24](https://medium.com/@anvesha19jain/women-engineering-program-a-complete-guide-bb71159be62) - Got selected as one of the top 250 girls all over the India. We will be given 2 year mentorship and much more to learn and a schlarship of [1,00,000] rupees!
- - [Codess.Cafe] mentee for open source track.
- - [Girlscript Summerr Of Code] Contributed in it and learned so many new things.
+ - [GOOGLE WE SCHOLAR '24](https://www.linkedin.com/posts/anvesha-jain-25413321b_we-talentsprint-google-activity-6914259571184193536-FW4x?utm_source=linkedin_share&utm_medium=member_desktop_web) - Got selected as one of the top 250 girls all over the India. We will be given 2 year mentorship and much more to learn and a schlarship of [1,00,000](https://we.talentsprint.com/) rupees! You can read my article about it here - [Medium](https://medium.com/@anvesha19jain/women-engineering-program-a-complete-guide-bb71159be62)
+ - [Codess.Cafe](https://www.linkedin.com/company/codesscafe/) - mentee for open source track.
+ - [Girlscript Summer Of Code](https://www.linkedin.com/posts/anvesha-jain-25413321b_connections-gssoc22-girlscript-activity-6901707290756423680-DHv4?utm_source=linkedin_share&utm_medium=member_desktop_web) Contributing and learning so many new things.
  - [Harvard WE Code Scholar](https://www.linkedin.com/company/wecodeharvard/) - Where I got the ticket to attend the code conference for free.
  - [Graphic Designer](https://www.linkedin.com/company/gs-production-house/mycompany/) - I am working as a graphic designer in the official meddia and production club  of our college.
  
@@ -40,11 +40,6 @@ Hi, I am Anvesha !
  </a>
 </p>
 
-
- 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="anveshajain19" />
- </p>
 
 ## Connect with me for :
   - Python programming
